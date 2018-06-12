@@ -1,4 +1,5 @@
 // Information to reach API
+//https://www.codecademy.com/articles/rebrandly-signup
 const apiKey = 'd1c2020293fc4700b13930d607c029ae';
 const url = 'https://api.rebrandly.com/v1/links';
 
