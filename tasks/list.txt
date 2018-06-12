@@ -1,0 +1,7 @@
+Build shortenUrl() or getSuggestions() from scratch.
+
+Manipulate the object that is returned to display something different in the browser.
+
+Use a different API to make a GET or POST request.
+
+Create query strings to yield different results.
